@@ -1,6 +1,6 @@
 
 
-<h2> Hey there!The name is Jonthue (Jon-tue) Michel.</h2>
+<h2> Hey there! The name is Jonthue (Jon-tue) Michel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
