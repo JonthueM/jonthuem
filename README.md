@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
 
 <h2> Hey there!The name is Jonthue (Jon-tue) Michel.</h2>
 
@@ -32,7 +32,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - 🖥 &nbsp;
-   Inkscape
+   Inkscape &
   Affinnity Designer
 
 <br/>
